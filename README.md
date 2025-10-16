@@ -2,7 +2,7 @@
 
 This project investigates hierarchical clustering on the Wine dataset. It compares AGNES (agglomerative) and DIANA (divisive) approaches using several linkage methods, evaluates cohesion metrics (agglomerative/divisive coefficients), inspects dendrograms, and recommends the most appropriate hierarchical method for this dataset. The report contains code, plots, and interpretation. 
 
-# Finding
+# Findings
 
 - AGNES with Ward’s method produced the most cohesive clusters and gave the clearest dendrogram separation — recommended for this dataset.
 
